@@ -1,8 +1,8 @@
 # 🇳🇬 POS Agent Revenue Insights & Analytics
 > **3MTT Nigeria Capstone Project | Data Analysis & Visualization Track**  
-> **Fellow Name:** [Your Full Name]  
-> **3MTT ID:** [Your 3MTT Fellow ID]  
-> **Location Context:** Yaba, Lagos State, Nigeria  
+> **Fellow Name:** Ahmad Yahaya Ahmad  
+> **3MTT ID:** FE/26/542636432 
+> **Location Context:** Gombe, Gombe State, Nigeria  
 > **Dataset Period:** March 2026 (268 Records)
 
 ---
